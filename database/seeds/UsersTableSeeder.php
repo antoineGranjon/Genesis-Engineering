@@ -15,8 +15,7 @@ class UsersTableSeeder extends Seeder
             'first_name' => 'Myn',
             'last_name' => 'Won',
             'email' => 'wonmyn@genesis.com',
-            'password' => 'wangfu255',
-            'role_id' => 3,
+            'password' => 'wangfu255'
         ]);
     }
 }

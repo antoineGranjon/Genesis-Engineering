@@ -1,4 +1,4 @@
-root = trueling_whitespace = true
+root = true
 
 [*]
 charset = utf-8
