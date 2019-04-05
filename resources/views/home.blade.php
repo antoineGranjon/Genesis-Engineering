@@ -3,7 +3,7 @@
     Homepage
 @stop
 @section('content')
-    <div class="container-fluid">
+    <div class="container-fluid p-0">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
